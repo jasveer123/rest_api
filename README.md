@@ -1,6 +1,6 @@
 # rest_api
 
-in this activity i make a rest api using node.js express.js mongodb and mongoose
+In this activity i make a rest api using node.js express.js mongodb and mongoose
 
 
 
