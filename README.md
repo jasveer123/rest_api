@@ -30,7 +30,7 @@ requirments: mongodb and postman
 ![Screenshot from 2021-08-03 16-53-28](https://user-images.githubusercontent.com/51202726/128012276-33d1e398-1b6d-429d-bdf4-46f5c8a72c57.png)
 
 
-4.)now using the get req get the data (we can used by id or simply get all data) the respose will show as 
+4.)now using the get req get the data the data after applying algorithm looks like (we can used by id or simply get all data) the respose will show as 
 
 
 ![Screenshot from 2021-08-03 17-14-19](https://user-images.githubusercontent.com/51202726/128012552-f3c7ed9e-2bdd-44e0-9aa4-5add5c82e732.png)
